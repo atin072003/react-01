@@ -1,0 +1,35 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+html,body{
+  background-color: yellow;
+}
+
+h1{
+  margin: 10px 70px;
+  padding: 10px 80px;
+  background-color: violet;
+ font-size: 100px;
+  width: 100vh;
+  align-items: center;
+  text-align: center;
+  
+  
+  
+}
+.fun{
+  
+  text-align: center;
+}
+.fun button{
+  text-align: center;
+  margin: 10px 20px;
+  padding: 10px 20px;
+  background-color: grey;
+  border-radius: 50px;
+  
+  justify-content: space-between;
+
+}

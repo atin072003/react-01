@@ -1,0 +1,24 @@
+@import "tailwindcss";
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+
+    
+}
+button{
+    gap: 10px;
+    margin: 10px 10px;
+    background-color: black;
+    text-align: center;
+    align-items: center;
+    font: 500;
+    font-display: auto;
+    padding: 5px 10px;
+    color: white;
+    justify-content: space-between;
+    border-radius: 15px;
+
+
+
+}
